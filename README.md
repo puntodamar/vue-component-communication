@@ -1,0 +1,1 @@
+Learning about vue component communication with custom events, props, emit, provide 
